@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+PyPDF2
+unicodedata
+fpdf
